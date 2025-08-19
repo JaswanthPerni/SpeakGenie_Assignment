@@ -1,29 +1,29 @@
 # SpeakGenie - AI/Tech Internship Task Submission
 
-[cite_start]This project is a Real-Time AI Voice English Tutor created for the SpeakGenie AI/Tech internship selection process[cite: 6]. [cite_start]The application is designed as an AI-powered English speaking and communication tool for students[cite: 3], providing a fun and effective way to learn through conversation.
+This project is a Real-Time AI Voice English Tutor created for the SpeakGenie AI/Tech internship selection process. The application is designed as an AI-powered English speaking and communication tool for students, providing a fun and effective way to learn through conversation.
 
 ## Features
 
 The application is built with two primary modes as specified in the task requirements:
 
-### [cite_start]1. AI Chatbot - Speak with a Tutor [cite: 8]
-* [cite_start]**Voice-to-Voice Interaction**: Users can speak to the AI tutor, which listens and responds verbally[cite: 10, 13].
-* [cite_start]**Speech-to-Text**: Utilizes AI to transcribe the student's spoken words into text[cite: 10].
-* [cite_start]**Intelligent Responses**: Leverages a GPT API to generate child-friendly, educational replies[cite: 12].
-* [cite_start]**Text-to-Speech**: The AI's text response is converted back into speech for the user to hear[cite: 13].
+### 1. AI Chatbot - Speak with a Tutor
+* **Voice-to-Voice Interaction**: Users can speak to the AI tutor, which listens and responds verbally.
+* **Speech-to-Text**: Utilizes AI to transcribe the student's spoken words into text.
+* **Intelligent Responses**: Leverages a GPT API to generate child-friendly, educational replies.
+* **Text-to-Speech**: The AI's text response is converted back into speech for the user to hear.
 
-### [cite_start]2. Roleplay Mode - Real-Life Conversations [cite: 17]
-* [cite_start]**Scenario-Based Learning**: Students can practice their English speaking skills in various everyday scenarios[cite: 18].
+### 2. Roleplay Mode - Real-Life Conversations
+* **Scenario-Based Learning**: Students can practice their English speaking skills in various everyday scenarios.
 * **Interactive Scenarios**: The application includes the following conversation modes:
-    * [cite_start]At School [cite: 20]
-    * [cite_start]At the Store [cite: 22]
-    * [cite_start]At Home [cite: 23]
+    * At School
+    * At the Store
+    * At Home
 
 ### Bonus Features Implemented
 *(You can edit this section. Delete any bonus features you did not add.)*
-* [cite_start]**Safe, Child-Friendly AI Personality**: The AI is prompted to be consistently encouraging and appropriate for young learners[cite: 35].
-* [cite_start]**Smart Speaking Tips**: The AI can provide helpful tips to improve the user's English[cite: 35].
-* [cite_start]**Native Language Playback**: The AI's responses can be played back in regional languages like Hindi[cite: 25].
+* **Safe, Child-Friendly AI Personality**: The AI is prompted to be consistently encouraging and appropriate for young learners.
+* **Smart Speaking Tips**: The AI can provide helpful tips to improve the user's English.
+* **Native Language Playback**: The AI's responses can be played back in regional languages like Hindi.
 
 ## Technologies Used
 * **Python**: Core programming language.
